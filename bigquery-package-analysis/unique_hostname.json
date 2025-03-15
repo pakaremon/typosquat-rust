@@ -1,0 +1,165 @@
+[{
+  "Hostname": "_pgpkey-http._tcp.keyserver.ubuntu.com"
+}, {
+  "Hostname": "aaaa"
+}, {
+  "Hostname": "apache.jfrog.io"
+}, {
+  "Hostname": "api.nuget.org"
+}, {
+  "Hostname": "api.telegram.org"
+}, {
+  "Hostname": "appcore-bin.sfo2.cdn.digitaloceanspaces.com"
+}, {
+  "Hostname": "archive.apache.org"
+}, {
+  "Hostname": "binaries.soliditylang.org"
+}, {
+  "Hostname": "cdn.intrepidcs.net"
+}, {
+  "Hostname": "cfhcable.dl.sourceforge.net"
+}, {
+  "Hostname": "chromium.googlesource.com"
+}, {
+  "Hostname": "cm21h1yyfk9oilsm1dz6ghkd046vunzbo.oastify.com"
+}, {
+  "Hostname": "codeload.github.com"
+}, {
+  "Hostname": "coin-or-tools.github.io"
+}, {
+  "Hostname": "commondatastorage.googleapis.com"
+}, {
+  "Hostname": "crateio.xxc-metrics.pages.dev"
+}, {
+  "Hostname": "csspeechstorage.blob.core.windows.net"
+}, {
+  "Hostname": "data.stockfishchess.org"
+}, {
+  "Hostname": "disposable.github.io"
+}, {
+  "Hostname": "dist.libuv.org"
+}, {
+  "Hostname": "dl.xyrillian.de"
+}, {
+  "Hostname": "dlib.net"
+}, {
+  "Hostname": "dlwqk3ibdg1xh.cloudfront.net"
+}, {
+  "Hostname": "doc-08-24-docs.googleusercontent.com"
+}, {
+  "Hostname": "download.db-ip.com"
+}, {
+  "Hostname": "download.libsodium.org"
+}, {
+  "Hostname": "download.mosek.com"
+}, {
+  "Hostname": "download.pytorch.org"
+}, {
+  "Hostname": "downloads.sourceforge.net"
+}, {
+  "Hostname": "drive.google.com"
+}, {
+  "Hostname": "f.hubspotusercontent40.net"
+}, {
+  "Hostname": "files.portaudio.com"
+}, {
+  "Hostname": "files.pythonhosted.org"
+}, {
+  "Hostname": "ftp.fftw.org"
+}, {
+  "Hostname": "ftp.gnu.org"
+}, {
+  "Hostname": "ftp.postgresql.org"
+}, {
+  "Hostname": "ghcr.io"
+}, {
+  "Hostname": "gist.githubusercontent.com"
+}, {
+  "Hostname": "git.openprivacy.ca"
+}, {
+  "Hostname": "gitee.com"
+}, {
+  "Hostname": "gitlab.com"
+}, {
+  "Hostname": "haltp.org"
+}, {
+  "Hostname": "index.crates.io"
+}, {
+  "Hostname": "ip-api.com"
+}, {
+  "Hostname": "jfrog-prod-usw2-shared-oregon-main.s3.amazonaws.com"
+}, {
+  "Hostname": "keyserver.ubuntu.com"
+}, {
+  "Hostname": "libsdl.org"
+}, {
+  "Hostname": "libsound.io"
+}, {
+  "Hostname": "naif.jpl.nasa.gov"
+}, {
+  "Hostname": "nlkytncvwapfujviszuq.supabase.co"
+}, {
+  "Hostname": "objects.githubusercontent.com"
+}, {
+  "Hostname": "parcel.pyke.io"
+}, {
+  "Hostname": "pkg-containers.githubusercontent.com"
+}, {
+  "Hostname": "proxy.golang.org"
+}, {
+  "Hostname": "publicsuffix.org"
+}, {
+  "Hostname": "pypi.org"
+}, {
+  "Hostname": "rapidsnark.zkmopro.org"
+}, {
+  "Hostname": "raw.githubusercontent.com"
+}, {
+  "Hostname": "registry.npmjs.org"
+}, {
+  "Hostname": "s3-ap-northeast-1.amazonaws.com"
+}, {
+  "Hostname": "sentences-bundle.hitokoto.cn"
+}, {
+  "Hostname": "software.ditto.live"
+}, {
+  "Hostname": "sourceware.org"
+}, {
+  "Hostname": "storage.googleapis.com"
+}, {
+  "Hostname": "tests.stockfishchess.org"
+}, {
+  "Hostname": "uc0f37dbb54886470cc0c46a8b9f.dl.dropboxusercontent.com"
+}, {
+  "Hostname": "uc712ee2cd5dccef7b91a2e3c31f.dl.dropboxusercontent.com"
+}, {
+  "Hostname": "ucad23aed486ebaae3350a254583.dl.dropboxusercontent.com"
+}, {
+  "Hostname": "ultralight-bin.sfo2.cdn.digitaloceanspaces.com"
+}, {
+  "Hostname": "ultralightcore-bin.sfo2.cdn.digitaloceanspaces.com"
+}, {
+  "Hostname": "vsagcache.oss-rg-china-mainland.aliyuncs.com"
+}, {
+  "Hostname": "webcore-bin.sfo2.cdn.digitaloceanspaces.com"
+}, {
+  "Hostname": "wrapdb.mesonbuild.com"
+}, {
+  "Hostname": "www.apache.org"
+}, {
+  "Hostname": "www.byond.com"
+}, {
+  "Hostname": "www.dropbox.com"
+}, {
+  "Hostname": "www.fftw.org"
+}, {
+  "Hostname": "www.iana.org"
+}, {
+  "Hostname": "www.math.sci.hiroshima-u.ac.jp"
+}, {
+  "Hostname": "www.openssl.org"
+}, {
+  "Hostname": "www.portaudio.com"
+}, {
+  "Hostname": "zlib.net"
+}]
