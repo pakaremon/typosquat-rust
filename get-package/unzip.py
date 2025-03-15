@@ -15,5 +15,5 @@ def unzip_all_files(directory):
             print(f"Error: An unexpected error occurred while processing {filename}: {e}")
 
 if __name__ == "__main__":
-    directory = r"D:\HocTap\projectDrVuDucLy\Typosquatting_attacks_on_the_Rust_ecosystem\packages\get-package\packages"
+    directory = r"..\packages\get-package\packages"
     unzip_all_files(directory)
